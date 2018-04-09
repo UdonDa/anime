@@ -69,7 +69,7 @@
 | ルパン三世　PART５ | x | x |
 | レイトン ミステリー探偵社 ～カトリーのナゾトキファイル～ | x | x |
 | レディスポ | x | x |
-| 鹿楓堂よついろ日和
+| 鹿楓堂よついろ日和 | x | x |
 | LOST SONGOST SONG | x | x |
 | Lostorage conflated WIXOSS | x | x |
 | 若おかみは小学生！ | x | x |
